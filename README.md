@@ -1,2 +1,3 @@
 # studying
-This repository is codes that I went to bootCamp in Korea
+This repository contains codes that I studied in bootCamp in Korea.
+It contains Java mainly.
